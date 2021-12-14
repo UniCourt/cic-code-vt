@@ -13,7 +13,7 @@ Code which generates these files can be found here: https://github.com/UniCourt/
 
 Original RTF files can be found here: https://archive.org/download/gov.vt.code
 
-The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-vt/ 
+The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-vt 
 
 ###### Other state Codes:
 
