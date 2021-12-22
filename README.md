@@ -7,6 +7,7 @@ This repository was created by UniCourt on behalf of [Public.Resource.Org](https
 Following releases are included:
 
 * Release 81 dated 2021.07.
+* Release 82 dated 2021.11.
 
 
 Code which generates these files can be found here: https://github.com/UniCourt/cic-beautify-state-codes
