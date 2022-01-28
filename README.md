@@ -33,3 +33,5 @@ The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-vt
  **Idaho (ID):** https://unicourt.github.io/cic-code-id
 
  **Virginia (VA):** https://unicourt.github.io/cic-code-va
+ 
+ **Wyoming (WY):** https://unicourt.github.io/cic-code-wy
